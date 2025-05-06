@@ -1,4 +1,8 @@
+
 # loan-dashboardLoan Calculator Dashboard - Documentation
+
+
+
 This document outlines the technical implementation and features of the Loan Calculator Dashboard, a React-based application designed to help users calculate loan EMIs, visualize amortization schedules, and convert EMI amounts into various currencies. The application provides a user-friendly experience with a customizable dark/light mode and responsive design.
 1. Loan EMI Calculation using Standard Financial Formulas
 The core functionality of the application involves calculating the Equated Monthly Installment (EMI) using the standard financial formula:
@@ -73,4 +77,4 @@ Implementation Details:
  * CSS media queries will be used in conjunction with Material UI's styling capabilities to fine-tune the responsiveness.
  * Components will be designed to be fluid and adapt their size and arrangement dynamically.
  * Testing on different screen sizes and devices will be conducted to ensure optimal responsiveness.
-This documentation provides a comprehensive overview of the features and implementation details of the Loan Calculator Dashboard. By following these guidelines, a robust and user-friendly application can be developed.
+This documentation provides a comprehensive overview of the features and implementation details of the Loan Calculator Dashboard. By following these guidelines, a robust and user-friendly application can be developed.'
